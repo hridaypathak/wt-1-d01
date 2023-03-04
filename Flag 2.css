@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .frame-child,
+  .frame-inner,
+  .frame-item {
+    position: absolute;
+    top: 183px;
+    left: 209px;
+    background-color: #fff;
+    width: 662px;
+    height: 354px;
+  }
+  .frame-inner,
+  .frame-item {
+    background-color: #ff5c00;
+    height: 118px;
+  }
+  .frame-inner {
+    top: 419px;
+    background-color: #33c300;
+  }
+  .group-icon {
+    position: absolute;
+    top: 311px;
+    left: 491px;
+    width: 98px;
+    height: 98px;
+  }
+  .rectangle-parent {
+    position: relative;
+    background-color: #000;
+    width: 100%;
+    height: 720px;
+    overflow: hidden;
+  }
+  
