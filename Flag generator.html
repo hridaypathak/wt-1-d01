@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body style="background-color:black;"></body>
+<h1 style="color:white;">Random Flag Color Generator</h1>
+<h2 style="color:white;">Click anywhere to change the colors.</h2>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js"></script>
+</head>
+<body>
+        <script>
+            function setup() {
+                createCanvas(600, 400)
+            }
+        
+            function draw() {
+            }
+    
+            function mousePressed() {
+            noStroke()
+            fill (random(200), random(255), random (255))
+                rect (0,0,500,100)
+                fill (random(255), random(200), random (255))
+                rect (0, 100,500,100)
+                fill (random(255), random(255), random (200))
+                rect (0,200,500,100)
+            }
+        </script>
+</body>
+</html>
