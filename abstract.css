@@ -1,0 +1,124 @@
+.macbook-pro-16-1-child {
+    position: absolute;
+    top: 67px;
+    left: 374px;
+    background-color: var(--color-white);
+    width: 336px;
+    height: 479px;
+  }
+  .macbook-pro-16-1-item {
+    position: absolute;
+    top: 557px;
+    left: 662px;
+    background-color: #ffe500;
+    width: 689px;
+    height: 121px;
+  }
+  .macbook-pro-16-1-inner,
+  .rectangle-div {
+    position: absolute;
+    top: 683px;
+    left: 1033px;
+    background-color: var(--color-mediumblue);
+    width: 326px;
+    height: 369px;
+  }
+  .rectangle-div {
+    top: 547px;
+    left: 369px;
+    width: 302px;
+    height: 136px;
+  }
+  .macbook-pro-16-1-child1 {
+    position: absolute;
+    top: 682px;
+    left: 372px;
+    background-color: var(--color-white);
+    width: 290px;
+    height: 370px;
+  }
+  .macbook-pro-16-1-child2,
+  .macbook-pro-16-1-child3 {
+    position: absolute;
+    top: 67px;
+    left: 368px;
+    background-color: var(--color-red);
+    width: 348px;
+    height: 479px;
+  }
+  .macbook-pro-16-1-child3 {
+    top: 683px;
+    left: 675px;
+    height: 369px;
+  }
+  .line-div,
+  .macbook-pro-16-1-child4,
+  .macbook-pro-16-1-child5,
+  .macbook-pro-16-1-child6 {
+    position: absolute;
+    top: 59.5px;
+    left: 702.5px;
+    border-right: 15px solid var(--color-black);
+    box-sizing: border-box;
+    width: 15px;
+    height: 507px;
+  }
+  .macbook-pro-16-1-child4,
+  .macbook-pro-16-1-child5,
+  .macbook-pro-16-1-child6 {
+    top: 60.5px;
+    left: 890.5px;
+    height: 498px;
+  }
+  .macbook-pro-16-1-child5,
+  .macbook-pro-16-1-child6 {
+    top: 538.5px;
+    left: 654.5px;
+    height: 533px;
+  }
+  .macbook-pro-16-1-child6 {
+    top: 670.5px;
+    left: 1015.5px;
+    height: 389px;
+  }
+  .macbook-pro-16-1-child7,
+  .macbook-pro-16-1-child8 {
+    position: absolute;
+    top: 551.5px;
+    left: 361.5px;
+    border-top: 15px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1005px;
+    height: 15px;
+  }
+  .macbook-pro-16-1-child8 {
+    top: 681.5px;
+    left: 352.5px;
+    width: 1014px;
+  }
+  .macbook-pro-16-1-child9 {
+    position: absolute;
+    top: 55px;
+    left: 360px;
+    background-color: transparent;
+    border: 18px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1009px;
+    height: 1009px;
+  }
+  .macbook-pro-16-1-child10 {
+    position: absolute;
+    top: 73px;
+    left: 904px;
+    background-color: var(--color-black);
+    width: 447px;
+    height: 473px;
+  }
+  .macbook-pro-16-1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1117px;
+    overflow: hidden;
+  }
+  
